@@ -1,7 +1,7 @@
 # TVMLApp
 Building a TVML App. Have some issues. Need help.
 
-Started learning IOS TVMLJS. I need to develop a TVML app. I couldn't find samples. So i am creating this repository.
+Started learning IOS TVMLJS. I need to develop a TVML app. I have completed most of the part. It need some changes to work   complete application.
 
 The purpose of this application is to
 
